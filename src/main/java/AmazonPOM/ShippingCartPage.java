@@ -23,6 +23,12 @@ public class ShippingCartPage
 	
 	public void selectQauntityFromDropdown(WebDriver driver) throws InterruptedException
 	{
+		
+		
+		
+		
+		
+		
 		UtilityProperties.Wait(driver, 1000);
 		
 		Dropdown.click();
