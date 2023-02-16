@@ -18,6 +18,12 @@ import org.testng.Reporter;
 public class AmazonUtility 
 {
 
+	
+	
+	
+	
+	
+	
 	//Commenly used methods
 
 	public static String readDataFromPropertyFile(String key) throws IOException
